@@ -4,7 +4,9 @@
 Case Analysis | McKinsey Forward Program
 
 ## 1. Problem Definition
-How can the city reduce traffic congestion by improving flow efficiency within a limited time horizon while ensuring feasible implementation?
+How can the Hustleton city reduce traffic congestion by improving flow efficiency within a limited time horizon while ensuring feasible implementation?
+
+<img width="1280" height="720" alt="Problem Definition" src="https://github.com/user-attachments/assets/25cb69d8-0720-4e7d-8abd-e7b861c4b623" />
 
 ---
 
@@ -23,7 +25,8 @@ Main drivers identified:
 - Traffic flow inefficiencies
 - Commuter behavior patterns
 
-(*Optional: insert image here*)
+<img width="1280" height="720" alt="Issue Tree" src="https://github.com/user-attachments/assets/4063ea22-043f-477d-864b-d33a38c8788d" />
+
 
 ---
 
@@ -31,6 +34,9 @@ Main drivers identified:
 - Congestion driven by both capacity constraints and inefficient traffic management
 - Certain interventions offer high impact with relatively low implementation complexity
 - Behavioral factors contribute significantly to peak-hour congestion
+
+<img width="1280" height="720" alt="Prirotization Matrix" src="https://github.com/user-attachments/assets/cf2653b2-e2c2-4aca-9bbc-ad393a23477c" />
+
 
 ---
 
