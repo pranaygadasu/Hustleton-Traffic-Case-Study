@@ -25,6 +25,7 @@ Identify the key drivers of congestion and recommend high-impact, feasible inter
 ---
 
 ## 2. Approach
+
 Used a structured problem-solving approach:
 - Defined problem using SMART criteria
 - Broke down drivers using MECE issue tree
@@ -72,6 +73,7 @@ This enabled focus on high-impact, actionable problems, rather than analyzing al
 ---
 
 ## 4. Key Insights
+
 - ~60–70% of congestion is concentrated in a limited number of high-traffic intersections, indicating bottleneck-driven inefficiency
 - Peak-hour demand (2–3 hour window) accounts for the majority of delays, suggesting temporal imbalance rather than constant overload
 - Traffic signal inefficiencies and route concentration amplify congestion, even where infrastructure exists
@@ -96,13 +98,14 @@ Based on the analysis, the following actions are recommended:
 - Reduce load on critical bottlenecks
 - Expected impact: better load balancing across road network
   
-3. Peak-Hour Traffic Management
+## 3. Peak-Hour Traffic Management
 - Introduce targeted measures during high-density windows
 - Examples: staggered traffic flows, directional prioritization
 - Expected impact: reduced congestion spikes during peak periods
 ---
 
 ## 6. Trade-offs Considered
+
 - High-impact infrastructure upgrades vs high implementation cost
 - Short-term traffic management vs long-term structural solutions
 
@@ -117,11 +120,13 @@ If implemented in combination, these interventions could:
 - Increase overall road network efficiency without major infrastructure expansion
 
 ## Key Takeaways
+
 - Traffic congestion is not purely an infrastructure problem — it is a management and distribution problem
 - Targeted, data-driven interventions can deliver significant improvements without large capital investment
 - Structured problem-solving enables clear prioritization and actionable decision-making
 
 ## Tools & Methods
+
 - Structured problem-solving (MECE, Issue Trees)
 - Hypothesis-driven analysis
 - Prioritization frameworks (Impact vs Feasibility)
