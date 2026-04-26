@@ -1,190 +1,122 @@
-# Hustleton-Traffic-Case-Study
-
 # Urban Traffic Optimization Strategy
+
 Case Analysis | McKinsey Forward Program
 
-## 🧾 Executive Summary
+---
 
-Traffic congestion in Hustleton is primarily driven by a small number of high-density intersections during peak hours.
-Analysis shows ~60–70% of delays originate from localized bottlenecks, not overall infrastructure shortage.
-Targeted interventions such as signal optimization and traffic redistribution can reduce congestion by an estimated 15–25% without major capital investment.
-Recommendation: Prioritize signal optimization at high-impact intersections as the fastest and most effective solution.
+## Key Insight
 
-## Overview
+Urban congestion is primarily driven by inefficient traffic flow management and behavioral bottlenecks rather than infrastructure limitations.
 
-This case study focuses on addressing severe traffic congestion in the city of Hustleton, where increasing delays are impacting commuter productivity, economic efficiency, and overall urban mobility.
-The objective was to define the problem clearly, identify root causes, prioritize key issues, and recommend actionable interventions for the city administration.
-This project was completed as part of the McKinsey Forward Program, applying structured problem-solving methodologies used in real consulting engagements.
-
-## 1. Problem Definition
-How can the Hustleton city reduce traffic congestion by improving flow efficiency within a limited time horizon while ensuring feasible implementation?
-Hustleton is experiencing significant traffic congestion during peak hours, leading to:
-
-- Increased travel time and commuter delays
-- Reduced road network efficiency
-- Economic loss due to inefficiencies in movement
-
-Goal:
-Identify the key drivers of congestion and recommend high-impact, feasible interventions to improve traffic flow within a realistic implementation scope.
-
-<img width="1280" height="720" alt="Problem Definition" src="https://github.com/user-attachments/assets/25cb69d8-0720-4e7d-8abd-e7b861c4b623" />
+~60–70% of delays originate from localized intersections, making targeted optimization significantly more effective than large-scale infrastructure expansion.
 
 ---
 
-## 2. Approach
+## Problem Statement
 
-Used a structured problem-solving approach:
-- Defined problem using SMART criteria
-- Broke down drivers using MECE issue tree
-- Prioritized using impact vs feasibility matrix
-- Developed hypotheses and validated key drivers
+**How can the city of Hustleton reduce commute time from 60 minutes to 30 minutes within 5 years through high-impact, feasible interventions?**
 
 ---
 
-## 3. Problem Breakdown (Issue Tree)
-Main drivers identified:
-The traffic problem was broken down into key drivers:
+## Approach
 
-- Infrastructure constraints (road capacity, bottlenecks)
-- Traffic management inefficiencies (signal timing, routing)
-- Demand patterns (peak-hour overload, route concentration)
+A structured problem-solving approach was used:
 
-This ensured a MECE (Mutually Exclusive, Collectively Exhaustive) analysis.
-
-## 2. Hypothesis-Driven Analysis
-
-Initial hypothesis:
-
-A small number of high-density intersections and inefficient traffic control during peak hours are responsible for the majority of congestion.
-
-Analysis focused on validating:
-
-Where congestion is concentrated
-When peak overload occurs
-Which factors contribute most to delays
-
-<img width="1280" height="720" alt="Issue Tree" src="https://github.com/user-attachments/assets/4063ea22-043f-477d-864b-d33a38c8788d" />
-
-## 3. Issue Prioritization
-
-<img width="1280" height="720" alt="Prirotization Matrix" src="https://github.com/user-attachments/assets/b3d759fc-63e2-48f9-8301-b5efcb251b91" />
-
-A prioritization matrix was used to evaluate issues based on:
-
-Impact on congestion reduction
-Feasibility of implementation
-
-This enabled focus on high-impact, actionable problems, rather than analyzing all issues equally.
-
-Priority Recommendation:
-1. Signal Optimization (highest impact, fastest implementation)
-2. Route Redistribution
-3. Peak-hour controls
----
-
-## 4. Key Insights
-
-- ~60–70% of congestion is concentrated in a limited number of high-traffic intersections, indicating bottleneck-driven inefficiency
-- Peak-hour demand (2–3 hour window) accounts for the majority of delays, suggesting temporal imbalance rather than constant overload
-- Traffic signal inefficiencies and route concentration amplify congestion, even where infrastructure exists
-
-Insight:
-The problem is not uniformly distributed — it is localized and pattern-driven, making it solvable with targeted interventions.
-
-
+* Defined problem using **SMART criteria**
+* Decomposed drivers using a **MECE issue tree**
+* Prioritized interventions using **impact vs feasibility matrix**
+* Applied **hypothesis-driven analysis** to identify root causes
 
 ---
 
-## 5. Recommendations
-Based on the analysis, the following actions are recommended:
+## Problem Breakdown (Issue Tree)
 
-## 1. Dynamic Traffic Signal Optimization
-- Adjust signal timings based on real-time or peak-hour patterns
-- Prioritize high-density traffic flows
-- Expected impact: 10–15% reduction in intersection-level delays
-  
-## 2. Route Redistribution Strategies
-- Encourage alternative routing through traffic advisories
-- Reduce load on critical bottlenecks
-- Expected impact: better load balancing across road network
-  
-## 3. Peak-Hour Traffic Management
-- Introduce targeted measures during high-density windows
-- Examples: staggered traffic flows, directional prioritization
-- Expected impact: reduced congestion spikes during peak periods
----
+Traffic congestion was broken into three key drivers:
 
-## 6. Trade-offs Considered
+* Infrastructure constraints
+* Traffic flow inefficiencies
+* Demand patterns (peak-hour concentration)
 
-- High-impact infrastructure upgrades vs high implementation cost
-- Short-term traffic management vs long-term structural solutions
+![Issue Tree](./Issue%20Tree.jpg)
 
 ---
 
-## Estimated Impact
+## Prioritization
 
-If implemented in combination, these interventions could:
+Issues were evaluated based on **impact vs feasibility**, focusing on high-return, implementable solutions.
 
-- Reduce congestion in high-density areas by 15–25% (estimated)
-- Improve average travel time during peak hours
-- Increase overall road network efficiency without major infrastructure expansion
+![Prioritization Matrix](./Prirotization%20Matrix.jpg)
+
+---
+
+## Key Insights
+
+* ~60–70% of congestion is concentrated in a small number of high-traffic intersections
+* Peak-hour demand drives the majority of delays (2–3 hour window)
+* Signal inefficiencies and route concentration amplify congestion
+
+The problem is **localized and pattern-driven**, not system-wide
+
+---
+
+## Key Trade-offs
+
+* Infrastructure expansion → high impact, low feasibility (cost, time)
+* Traffic optimization → moderate-high impact, high feasibility
+* Behavioral interventions → low cost, variable adoption
+
+**Decision:** Prioritize scalable, high-feasibility interventions first
+
+---
+
+## Recommendations
+
+* Optimize traffic signals in high-density corridors
+* Implement peak-hour demand management strategies
+* Redistribute traffic load using alternative routing
+
+---
+
+## Expected Impact
+
+* ~15–25% reduction in congestion (estimated)
+* Improved peak-hour travel time
+* Increased road network efficiency without major capital investment
+
+---
+
+## Outcome
+
+Structured recommendations enabling a prioritized, actionable plan to improve urban traffic flow efficiency
+
+---
 
 ## Key Takeaways
 
-- Traffic congestion is not purely an infrastructure problem — it is a management and distribution problem
-- Targeted, data-driven interventions can deliver significant improvements without large capital investment
-- Structured problem-solving enables clear prioritization and actionable decision-making
+* Congestion is primarily a **management problem, not capacity problem**
+* Targeted interventions outperform large-scale expansion in early stages
+* Structured problem-solving enables clear prioritization and decision-making
 
-## Tools & Methods
+---
 
-- Structured problem-solving (MECE, Issue Trees)
-- Hypothesis-driven analysis
-- Prioritization frameworks (Impact vs Feasibility)
-- Data analysis using Python (for validation and exploration)
+## Methods Used
 
-## About This Project
+* MECE problem structuring
+* Hypothesis-driven analysis
+* Impact vs feasibility prioritization
+* Data-supported reasoning
 
-This case study was completed as part of the McKinsey Forward Program, focusing on:
+---
 
-- Problem structuring
-- Analytical thinking
-- Decision-making under constraints
+## Deliverable
 
-## 7. Outcome
-Structured recommendations enabling prioritized action plan for improving traffic flow efficiency.
+This project simulates a consulting-style engagement, demonstrating:
 
-## 📦 Deliverable
-
-This case simulates a consulting engagement output, focusing on:
-
-- Structured problem definition
-- Prioritized issue breakdown
-- Data-backed insights
-- Actionable recommendations
-
-Designed to reflect real-world decision-making frameworks used in consulting.
+* Structured problem definition
+* Analytical reasoning under constraints
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Trade-off evaluation
+* Actionable recommendation development
